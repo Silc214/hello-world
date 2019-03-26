@@ -1,3 +1,2 @@
 # hello-world
-My first repository on github
-I am learning how branches and commits work right now.
+This is my first repository on github and I am learning how branches, commits and pull requests work right now.
